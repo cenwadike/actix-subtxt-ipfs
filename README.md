@@ -1,4 +1,4 @@
-# actix-subtxt-ipfs
+# actix-subxt-ipfs
 
 Interacting with substrate node and IPFS from an actix-web server
 
